@@ -1,6 +1,4 @@
 name: chandu
 roll:42
 sec:2
-About:learning GitHub with Devops
-hello!
 email:chandupilli447@gmail.com
